@@ -1,0 +1,24 @@
+{
+  "name": "music-app-backend",
+  "version": "1.0.0",
+  "description": "a music appp's backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawahpeggy/Music-App-Backend.git"
+  },
+  "keywords": [
+    "music",
+    "cameroon",
+    "lyrics"
+  ],
+  "author": "tawahpeggy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tawahpeggy/Music-App-Backend/issues"
+  },
+  "homepage": "https://github.com/tawahpeggy/Music-App-Backend#readme"
+}
